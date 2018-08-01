@@ -1,0 +1,11 @@
+{
+    "ProntoPizza": {
+        "NAME": "Pronto Pepper Pizza",
+        "FLAVOR": "Pizza can't melt LEGO bars...  or can it? ",
+        "DESCRIPTIONS": [
+            "Upon pickup, raise your Max HP by #b",  
+            ", and take #b",
+            " damage"
+        ]
+    }
+}

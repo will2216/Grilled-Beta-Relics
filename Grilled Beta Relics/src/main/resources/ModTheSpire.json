@@ -1,0 +1,11 @@
+{
+  "modid": "grilledmod",
+  "name": "Grilled Beta Relics",
+  "author_list": ["Beta Chess", "Grillkylling"],
+  "description": "Adds additional relics to Slay The Spure",
+  "version": "0.1.0",
+  "sts_version": "07-26-2018",
+  "mts_version": "2.9.1",
+  "dependencies": ["basemod"],
+  "update_json": ""
+}
